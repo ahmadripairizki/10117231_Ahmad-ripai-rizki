@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="#FDFCFC"
+    android:orientation="vertical"
+    android:padding="5dp">
+
+    <TextView
+        android:id="@+id/text_home"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:layout_gravity="center"
+        android:src="@drawable/ddp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="14dp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/colorPrimary"
+        android:gravity="center"
+        android:text="DAGO DREAM PARK"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:background="#F9FBFB"
+        android:text="Alamat : Jl. Dago Giri Km. 2.2 Mekarwangi, Pagerwangi, Lembang, Kabupaten Bandung Barat, Jawa Barat 40135 "
+        android:textSize="12sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:background="#F9FBFB"
+        android:text="https://maps.app.goo.gl/NdDr95gjWPjL9o3w6"
+        android:textColor="#1634F6"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:layout_gravity="center"
+        android:src="@drawable/cikole" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="14dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/colorPrimary"
+        android:gravity="center"
+        android:text="ORCHID FOREST CIKOLE"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:background="#F9FBFB"
+        android:text="Alamat : Lembang, Kabupaten Bandung Barat, Jawa Barat "
+        android:textSize="12sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_gravity="center"
+        android:background="#F9FBFB"
+        android:text="https://maps.app.goo.gl/igqFZHSiEqYbdxV66"
+        android:textColor="#1634F6"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:layout_gravity="center"
+        android:src="@drawable/ra" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="14dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/colorPrimary"
+        android:gravity="center"
+        android:text="RANCA UPAS"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:background="#F9FBFB"
+        android:text="Alamat : Jl. Raya Ciwidey - Patengan No.KM. 11, Patengan, Kec. Rancabali, Bandung, Jawa Barat 40973 "
+        android:textSize="12sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_gravity="center"
+        android:background="#F9FBFB"
+        android:text="https://maps.app.goo.gl/uB8kLMdwuTqs8Wjy6"
+        android:textColor="#1634F6"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+</LinearLayout>
+
+
+
+
+
+
+

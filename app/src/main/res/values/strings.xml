@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">10117231_Ahmad ripai rizki</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Wisata Alam Bandung</string>
+    <string name="nav_header_subtitle">wisataalambandung@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+
+    <string name="menu_home">Tempat Wisata</string>
+    <string name="menu_gallery">Profil</string>
+    <string name="menu_slideshow">New Wisata</string>
+    <string name="Nama">Nama</string>
+    <string name="Alamat">Alamat</string>
+    <string name="Telepon">Telepon</string>
+    <string name="Medsos">Medsos</string>
+    <string name="Email">Email</string>
+
+</resources>
